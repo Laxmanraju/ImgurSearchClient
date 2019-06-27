@@ -1,6 +1,0 @@
-framework module Pods_ImgurSearchClient {
-  umbrella header "Pods-ImgurSearchClient-umbrella.h"
-
-  export *
-  module * { export * }
-}
